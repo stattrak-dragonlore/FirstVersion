@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.platform = :ios
   s.license  = 'MIT'
   s.summary  = 'Save the version string to keychain on app first run'
-  s.homepage = 'https://github.com/https://github.com/dengzhp/FirstVersion'
+  s.homepage = 'https://github.com/dengzhp/FirstVersion'
   s.authors  = { 'Zhiping Deng' => 'kofreestyler@gmail.com' }
   s.source   = { :git => 'https://github.com/dengzhp/FirstVersion.git', :tag => '0.1' }
   s.source_files = 'FirstVersion'
