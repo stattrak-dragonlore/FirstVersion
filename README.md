@@ -6,6 +6,12 @@ Save the app version string to keychain on app first run.
 So you can know which version the user began to use your app, even if they uninstall your app then reinstall it.
 
 
+Use Case
+-------------
+
+see <http://stackoverflow.com/questions/1575965/transition-an-existing-paid-for-app-to-free-version-with-in-app-purchase?lq=1>
+
+
 How to Use
 --------------
 
